@@ -1,0 +1,18 @@
+# Author: gavaletz@google.com (Eric Gavaletz)
+#
+# Files that we do not want tracked by git.
+
+
+# Binary files
+bin/*
+
+
+# These are produced by templates
+
+
+# This is for development data (not to be tracked)
+
+
+
+# Random evil files
+*.DS_Store
